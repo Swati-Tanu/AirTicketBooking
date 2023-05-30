@@ -2,8 +2,6 @@
 
 This API allows users to book flights and retrieve booking information.
 
-## Depoloyed Link
-[Flight_Booking_API](https://flight-booking-v25z.onrender.com)
 
 ## Getting Started
 
@@ -18,7 +16,7 @@ To get started with the Flight Booking API, follow the instructions below.
 
 1. Clone the repository:
 
-git clone <https://github.com/Ayush-kr-shanu/Flight_Booking_API.git>
+git clone
 
 2. Install the dependencies:
 
